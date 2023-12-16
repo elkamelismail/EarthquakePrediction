@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GF63/Desktop/PROJET%20ML/mlruns/0/c950a6107b4c4e2aa96a11c7e8f5af21/artifacts
+end_time: 1702734675049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c950a6107b4c4e2aa96a11c7e8f5af21
+run_name: skillful-wren-286
+run_uuid: c950a6107b4c4e2aa96a11c7e8f5af21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702734647014
+status: 3
+tags: []
+user_id: GF63

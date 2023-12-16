@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GF63/Desktop/PROJET%20ML/mlruns/0/1d40c52bcd144519908ad789625fa098/artifacts
+end_time: 1702734910228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d40c52bcd144519908ad789625fa098
+run_name: funny-goose-671
+run_uuid: 1d40c52bcd144519908ad789625fa098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702734872159
+status: 3
+tags: []
+user_id: GF63
