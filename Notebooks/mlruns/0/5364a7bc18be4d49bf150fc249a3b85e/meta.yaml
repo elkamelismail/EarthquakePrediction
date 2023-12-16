@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GF63/Desktop/PROJET%20ML/mlruns/0/5364a7bc18be4d49bf150fc249a3b85e/artifacts
+end_time: 1702735722857
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5364a7bc18be4d49bf150fc249a3b85e
+run_name: shivering-lamb-174
+run_uuid: 5364a7bc18be4d49bf150fc249a3b85e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702735718377
+status: 3
+tags: []
+user_id: GF63
