@@ -6,7 +6,7 @@ from sklearn.preprocessing import StandardScaler
 import pickle
 
 #loading data
-dt = pd.read_csv('data\\dt_pre_.csv')
+dt = pd.read_csv('data/dt_pre_.csv')
 
 #splitting data
 X = dt.drop('meandamage',axis = 1)
@@ -25,4 +25,4 @@ xgb_regressor.fit(X_train, y_train)
 y_pred = xgb_regressor.predict(X_test)
 
 #saving model
-pickle.dump(xgb_regressor, open('models\model_.pkl','wb'))
+pickle.dump(xgb_regressor, open('models/model_.pkl','wb'))

@@ -6,7 +6,7 @@ from sklearn.preprocessing import StandardScaler
 import pickle
 
 #loading data
-dt = pd.read_csv('data\\data_pre.csv')
+dt = pd.read_csv('data/data_pre.csv')
 
 #splitting data
 X = dt[['dmin','latitude','longitude']]
@@ -25,4 +25,4 @@ xgb_regressor.fit(X_train, y_train)
 y_pred = xgb_regressor.predict(X_test)
 
 #saving model
-pickle.dump(xgb_regressor, open('models\model.pkl','wb'))
+pickle.dump(xgb_regressor, open('models/model.pkl','wb'))

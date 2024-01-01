@@ -4,8 +4,8 @@ import pickle
 
 app = Flask(__name__)
 
-model_1 = pickle.load(open("models\\model.pkl", "rb"))
-model_2 = pickle.load(open("models\\model_.pkl", "rb"))
+model_1 = pickle.load(open("models/model.pkl", "rb"))
+model_2 = pickle.load(open("models/model_.pkl", "rb"))
 
 
 @app.route('/')
@@ -43,6 +43,3 @@ def predict_damage():
 
 if __name__ == "__main__":
     app.run(debug=True)
-
-
-
