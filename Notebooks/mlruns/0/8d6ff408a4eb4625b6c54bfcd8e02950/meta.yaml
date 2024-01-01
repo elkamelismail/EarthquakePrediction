@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GF63/Desktop/PROJET%20ML/mlruns/0/8d6ff408a4eb4625b6c54bfcd8e02950/artifacts
+end_time: 1704115974366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d6ff408a4eb4625b6c54bfcd8e02950
+run_name: nimble-ram-328
+run_uuid: 8d6ff408a4eb4625b6c54bfcd8e02950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704115970778
+status: 3
+tags: []
+user_id: GF63

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GF63/Desktop/PROJET%20ML/mlruns/0/d4246d04e3d7458ebfda9b3459cce7fc/artifacts
+end_time: 1704108831818
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4246d04e3d7458ebfda9b3459cce7fc
+run_name: welcoming-fowl-453
+run_uuid: d4246d04e3d7458ebfda9b3459cce7fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704108816061
+status: 3
+tags: []
+user_id: GF63

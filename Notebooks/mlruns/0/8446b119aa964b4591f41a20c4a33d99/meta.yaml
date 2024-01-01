@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GF63/Desktop/PROJET%20ML/mlruns/0/8446b119aa964b4591f41a20c4a33d99/artifacts
+end_time: 1704061197877
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8446b119aa964b4591f41a20c4a33d99
+run_name: agreeable-shrew-484
+run_uuid: 8446b119aa964b4591f41a20c4a33d99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704061193914
+status: 3
+tags: []
+user_id: GF63

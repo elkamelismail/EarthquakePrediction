@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GF63/Desktop/PROJET%20ML/mlruns/0/ca32a8bf8c9b4cb0a8da6c6757a20875/artifacts
+end_time: 1704111473773
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca32a8bf8c9b4cb0a8da6c6757a20875
+run_name: classy-doe-943
+run_uuid: ca32a8bf8c9b4cb0a8da6c6757a20875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704111467638
+status: 3
+tags: []
+user_id: GF63

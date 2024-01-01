@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GF63/Desktop/PROJET%20ML/mlruns/0/cfa51f79a0f14202897514404412aa5c/artifacts
+end_time: 1703704070673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfa51f79a0f14202897514404412aa5c
+run_name: likeable-shrimp-783
+run_uuid: cfa51f79a0f14202897514404412aa5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703704067152
+status: 3
+tags: []
+user_id: GF63

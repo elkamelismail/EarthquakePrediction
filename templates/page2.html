@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Building Damage</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    body {
+      font-family: 'Arimo', sans-serif;
+      background-color: #f2f2f2;
+    }
+
+    .prediction-form {
+      max-width: 500px;
+      margin: 0 auto;
+      padding: 30px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      background-color: #fff;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    h1 {
+      font-family: 'Pacifico', cursive;
+      font-size: 36px;
+      text-align: center;
+      margin-bottom: 20px;
+      color: #333;
+    }
+
+    form {
+      display: grid;
+      grid-gap: 10px;
+    }
+
+    label {
+      font-family: 'Hind', sans-serif;
+      font-size: 16px;
+      color: #555;
+    }
+
+    input[type="text"] {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+    }
+
+    input[type="submit"] {
+      width: 100%;
+      padding: 12px 20px;
+      background-color: #ff0000;
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    input[type="submit"]:hover {
+      background-color: #ff3700;
+    }
+
+    br {
+      display: block;
+      margin: 10px 0;
+    }
+
+    .prediction-result {
+      margin-top: 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="prediction-form">
+    <h1>Earthquake Damage Prediction</h1>
+    <form action="/page2.html" method="post" id="predictionForm">
+      <label for="structType">Structure Type:</label>
+      <input type="text" id="structType" name="structType" required><br>
+
+      <label for="yearBuilt">Year Built:</label>
+      <input type="text" id="yearBuilt" name="yearBuilt" required><br>
+
+      <label for="numStories">Number of Stories:</label>
+      <input type="text" id="numStories" name="numStories" required><br>
+
+      <label for="distance">Distance:</label>
+      <input type="text" id="distance" name="distance" required><br>
+
+      <label for="damage">Magnitude:</label>
+      <input type="text" id="magnitude" name="magnitude" required><br>
+
+      <input type="submit" value="Predict">
+    </form>
+
+    <div class="prediction-result" id="predictionResult">
+      {{ prediction_text_ }}
+    </div>
+  </div>
+</body>
+</html>

@@ -9,7 +9,7 @@ import pickle
 dt = pd.read_csv('data\\data_pre.csv')
 
 #splitting data
-X = dt.drop('magnitude',axis = 1)
+X = dt[['dmin','latitude','longitude']]
 y = dt['magnitude']
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.3, random_state = 42)
 

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GF63/Desktop/PROJET%20ML/mlruns/0/3e4eedd5249e4121a50fec9beaa5c1f8/artifacts
+end_time: 1704059755981
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e4eedd5249e4121a50fec9beaa5c1f8
+run_name: glamorous-pig-229
+run_uuid: 3e4eedd5249e4121a50fec9beaa5c1f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704059751517
+status: 3
+tags: []
+user_id: GF63

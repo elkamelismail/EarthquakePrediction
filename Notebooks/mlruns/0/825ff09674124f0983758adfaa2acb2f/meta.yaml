@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GF63/Desktop/PROJET%20ML/mlruns/0/825ff09674124f0983758adfaa2acb2f/artifacts
+end_time: 1703166790855
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 825ff09674124f0983758adfaa2acb2f
+run_name: wise-carp-709
+run_uuid: 825ff09674124f0983758adfaa2acb2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703166772139
+status: 3
+tags: []
+user_id: GF63

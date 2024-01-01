@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GF63/Desktop/PROJET%20ML/mlruns/0/db555ae79b1b4ba38139af50a94e4120/artifacts
+end_time: 1704116017424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db555ae79b1b4ba38139af50a94e4120
+run_name: unique-elk-130
+run_uuid: db555ae79b1b4ba38139af50a94e4120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704115999346
+status: 3
+tags: []
+user_id: GF63

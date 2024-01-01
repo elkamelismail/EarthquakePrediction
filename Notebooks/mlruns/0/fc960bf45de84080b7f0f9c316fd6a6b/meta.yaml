@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GF63/Desktop/PROJET%20ML/mlruns/0/fc960bf45de84080b7f0f9c316fd6a6b/artifacts
+end_time: 1703704096603
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc960bf45de84080b7f0f9c316fd6a6b
+run_name: rumbling-boar-307
+run_uuid: fc960bf45de84080b7f0f9c316fd6a6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703704092023
+status: 3
+tags: []
+user_id: GF63

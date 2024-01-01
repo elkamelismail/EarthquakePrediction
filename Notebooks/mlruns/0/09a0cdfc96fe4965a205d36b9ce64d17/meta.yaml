@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GF63/Desktop/PROJET%20ML/mlruns/0/09a0cdfc96fe4965a205d36b9ce64d17/artifacts
+end_time: 1704115977181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09a0cdfc96fe4965a205d36b9ce64d17
+run_name: resilient-sponge-804
+run_uuid: 09a0cdfc96fe4965a205d36b9ce64d17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704115974382
+status: 3
+tags: []
+user_id: GF63

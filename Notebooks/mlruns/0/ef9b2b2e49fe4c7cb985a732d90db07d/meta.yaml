@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GF63/Desktop/PROJET%20ML/mlruns/0/ef9b2b2e49fe4c7cb985a732d90db07d/artifacts
+end_time: 1703704073349
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef9b2b2e49fe4c7cb985a732d90db07d
+run_name: skittish-snail-601
+run_uuid: ef9b2b2e49fe4c7cb985a732d90db07d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703704070690
+status: 3
+tags: []
+user_id: GF63

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GF63/Desktop/PROJET%20ML/mlruns/0/575dfcea9ba84d4395dc1afab07c19bb/artifacts
+end_time: 1704111464962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 575dfcea9ba84d4395dc1afab07c19bb
+run_name: bold-lamb-786
+run_uuid: 575dfcea9ba84d4395dc1afab07c19bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704111461630
+status: 3
+tags: []
+user_id: GF63

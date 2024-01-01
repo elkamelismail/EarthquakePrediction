@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GF63/Desktop/PROJET%20ML/mlruns/0/a534e729f1aa45cfba658ca4bc919c6f/artifacts
+end_time: 1704059781888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a534e729f1aa45cfba658ca4bc919c6f
+run_name: salty-pug-786
+run_uuid: a534e729f1aa45cfba658ca4bc919c6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704059756004
+status: 3
+tags: []
+user_id: GF63

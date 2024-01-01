@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GF63/Desktop/PROJET%20ML/mlruns/0/f85e2ebbc7bb4fe8a220fabdc03c3553/artifacts
+end_time: 1704059733618
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f85e2ebbc7bb4fe8a220fabdc03c3553
+run_name: lyrical-calf-645
+run_uuid: f85e2ebbc7bb4fe8a220fabdc03c3553
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704059730758
+status: 3
+tags: []
+user_id: GF63

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GF63/Desktop/PROJET%20ML/mlruns/0/087ddc21aa5747c284b1579d1cc44020/artifacts
+end_time: 1704115999323
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 087ddc21aa5747c284b1579d1cc44020
+run_name: lyrical-panda-707
+run_uuid: 087ddc21aa5747c284b1579d1cc44020
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704115994779
+status: 3
+tags: []
+user_id: GF63

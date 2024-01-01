@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GF63/Desktop/PROJET%20ML/mlruns/0/4d1884f10d27445c8b854ba6b8082cb9/artifacts
+end_time: 1703166767570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d1884f10d27445c8b854ba6b8082cb9
+run_name: peaceful-hare-25
+run_uuid: 4d1884f10d27445c8b854ba6b8082cb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703166750015
+status: 3
+tags: []
+user_id: GF63

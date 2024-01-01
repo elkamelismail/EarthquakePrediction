@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GF63/Desktop/PROJET%20ML/mlruns/0/e31c7f8bd7844cb9b2320dc1265f37dd/artifacts
+end_time: 1703166747209
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e31c7f8bd7844cb9b2320dc1265f37dd
+run_name: powerful-kit-411
+run_uuid: e31c7f8bd7844cb9b2320dc1265f37dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703166743441
+status: 3
+tags: []
+user_id: GF63

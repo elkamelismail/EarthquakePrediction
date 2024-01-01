@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GF63/Desktop/PROJET%20ML/mlruns/0/e50e9c42735c4d97aa03d56e659bbd41/artifacts
+end_time: 1704109257721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e50e9c42735c4d97aa03d56e659bbd41
+run_name: useful-stag-921
+run_uuid: e50e9c42735c4d97aa03d56e659bbd41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704109255131
+status: 3
+tags: []
+user_id: GF63

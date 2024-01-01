@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GF63/Desktop/PROJET%20ML/mlruns/0/e81ded949dfd447ca6a28b61e7cd8a20/artifacts
+end_time: 1703704122434
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e81ded949dfd447ca6a28b61e7cd8a20
+run_name: enchanting-frog-787
+run_uuid: e81ded949dfd447ca6a28b61e7cd8a20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703704096626
+status: 3
+tags: []
+user_id: GF63

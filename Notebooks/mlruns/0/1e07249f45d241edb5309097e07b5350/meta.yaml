@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GF63/Desktop/PROJET%20ML/mlruns/0/1e07249f45d241edb5309097e07b5350/artifacts
+end_time: 1704111930299
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e07249f45d241edb5309097e07b5350
+run_name: casual-mouse-985
+run_uuid: 1e07249f45d241edb5309097e07b5350
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704111927571
+status: 3
+tags: []
+user_id: GF63

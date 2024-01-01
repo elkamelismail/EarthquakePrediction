@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GF63/Desktop/PROJET%20ML/mlruns/0/f4b181a049104b459a06963cdbd66be7/artifacts
+end_time: 1704059751492
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4b181a049104b459a06963cdbd66be7
+run_name: nebulous-fish-521
+run_uuid: f4b181a049104b459a06963cdbd66be7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704059733634
+status: 3
+tags: []
+user_id: GF63
